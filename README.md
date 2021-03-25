@@ -1,5 +1,7 @@
-# Bioinformatic : paper review
+# CURT program
 
-## Establishment and evaluation of prediction model for multiple disease classification based on gut microbial data
+## Research subject
 
-[예정](https://www.nature.com/articles/s41598-019-46249-x)
+## Research purpose
+
+## Research contents
