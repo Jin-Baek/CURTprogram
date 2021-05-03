@@ -13,7 +13,7 @@ Creative undergraduate research training
 ## Research application
 
 ### Research subject
-* 알츠하이머병에 영향을 주는 핵심 장내 미생물과 다른 뇌 질환들 사이의 관계를 통해 질병 예측 소프트웨어 프로그램 개발<br><br>
+* 알츠하이머 병에 영향을 미치는 주요 장내 미생물이 다른 뇌 질환에 어떻게 영향을 미치는지 예측하는 소프트웨어 프로그램을 개발 <br><br>
 * Development of a disease prediction software program through the relationship between core gut microbiota that affect Alzheimer's and other brain diseases
 
 
