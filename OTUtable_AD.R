@@ -309,7 +309,7 @@ grid.arrange(p1,p2,up1,up2,ncol=2,nrow=2)
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  Example dataset @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ## URL : https://www.kaggle.com/iabhishekofficial/mobile-price-classification?select=train.csv
 
-example.data <- read.csv("train.csv",sep=",")
+example.data <- read.csv("temporary_data.csv",sep=",")
 example.data <- example.data%>%
   mutate(price_range=as.factor(example.data$price_range))
 
